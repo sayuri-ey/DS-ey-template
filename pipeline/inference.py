@@ -1,9 +1,18 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 # custom modules
 from configs.custom_config import get_timezone, get_target_column, get_feature_columns, get_categorical_columns, get_numerical_columns
 # external modules
 import joblib
 import pandas as pd
 from datetime import datetime
+
+
+# set environment and define functions
+
+# set timezone
+get_timezone()
 
 # Load model
 model = joblib.load('model/model.pkl')
@@ -23,3 +32,4 @@ def predict(new_data):
     print(message)
     
     return predictions
+

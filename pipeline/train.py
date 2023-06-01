@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 # custom modules
 from configs.custom_config import get_timezone, get_target_column, get_feature_columns, get_categorical_columns, get_numerical_columns
 # external modules
@@ -15,7 +18,10 @@ from sklearn.metrics import precision_recall_fscore_support
 from sklearn.metrics import roc_curve
 import matplotlib.pyplot as plt
 
-#setting timezone
+
+# set environment and define functions
+
+# set timezone
 get_timezone()
 
 def get_sets(set):
@@ -203,6 +209,8 @@ def main():
 
     print(f'Finished Train step at {datetime.now().strftime("%H:%M:%S")}')
 
+
 if __name__ == "__main__":
 
     main()
+

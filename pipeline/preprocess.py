@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 # custom modules
 from configs.custom_config import get_timezone, get_data_path, get_target_column, get_feature_columns, get_categorical_columns, get_numerical_columns
 # external modules
@@ -13,10 +16,13 @@ from sklearn.metrics import classification_report, confusion_matrix
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.preprocessing import OneHotEncoder
+# from sklearn.preprocessing import OneHotEncoder
 from sklearn.utils import resample
 
-#setting timezone
+
+# set environment and define functions
+
+# set timezone
 get_timezone()
 
 def get_dataset():
@@ -89,7 +95,7 @@ def get_correlation_matrix(X_train, X_test, X_valid, threshold=0.6):
     plt.show()
     return uncorrelated_X_train, uncorrelated_X_test, uncorrelated_X_valid
 
-def downsample(df, ratio=0.05, target_col, features):
+def downsample(df, target_col, features, ratio=0.05):
 
     # Separate the majority and minority classes
     majority = df[df[target_col] == 0]
@@ -183,6 +189,8 @@ def main():
 
     print(f'Finished Preprocess step at {datetime.now().strftime("%H:%M:%S")}')
 
+
 if __name__ == "__main__":
 
     main()
+

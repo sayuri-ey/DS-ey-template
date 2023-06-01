@@ -1,3 +1,6 @@
+#!/usr/bin/env python
+# coding: utf-8
+
 # custom modules
 from configs.custom_config import get_timezone
 from pipeline.train import get_sets
@@ -16,6 +19,7 @@ from sklearn.model_selection import train_test_split
 # from sklearn.model_selection import GridSearchCV
 from sklearn.model_selection import RandomizedSearchCV
 # from sklearn.linear_model import LogisticRegression
+
 
 def random_search(X_train, y_train):
     # Define the hyperparameter space
@@ -115,6 +119,8 @@ def main():
 
     print(f'Finished Evaluate at {datetime.now().strftime("%H:%M:%S")}')
 
+
 if __name__ == "__main__":
 
     main()
+

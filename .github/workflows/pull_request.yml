@@ -1,0 +1,43 @@
+name: Pull Request
+permissions:
+  id-token: write
+  contents: read
+
+on: 
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  labeler:
+    permissions:
+      contents: read
+      pull-requests: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: PR Size Tagging
+        uses: adiRandom/pr-size-tagging@0.1.7
+        with:
+          token: "${{ secrets.GITHUB_TOKEN }}"
+          labels: '[{"name": "XSmall changes", "size": 5}, 
+                    {"name": "Small changes", "size": 50}, 
+                    {"name": "Medium changes", "size": 250}, 
+                    {"name": "Large changes", "size": 500}, 
+                    {"name": "XLarge changes", "size": 1000}]'
+
+
+  # test-coverage:
+  #   runs-on: ubuntu-latest
+  #   name: test coverage
+  #     - name: Set up Python 3.8
+  #       uses: actions/setup-python@v4
+  #       with:
+  #         python-version: 3.8
+
+  #     - name: Install Python dependencies
+  #       run: |
+  #         cd $GITHUB_WORKSPACE
+  #         make
+  #     - name: Test with pytest
+  #       run: |
+  #         source .env/bin/activate
+  #         make test

@@ -1,0 +1,4 @@
+tests/test_train.py
+tests/test_preprocess.py
+tests/test_inference.py
+tests/test_evaluate.py

@@ -2,6 +2,12 @@
 
 <!--next-version-placeholder-->
 
+## v0.1.1 (2023-07-12)
+
+### Fix
+
+* Remove old references ([`50b4581`](https://github.com/sayuri-ey/DS-ey-template/commit/50b4581206bba9f834724bddfc00ee266b55a40f))
+
 ## v0.1.0 (2023-07-12)
 
 ### Feature

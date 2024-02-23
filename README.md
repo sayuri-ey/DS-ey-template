@@ -31,6 +31,15 @@ Inside the pipeline directory, another four notebooks are include, one for each 
 make scripts
 ```
 
+Organize scripts imports and format code using `isort` and `black` respectively. 
+```
+# Standard Libraries
+
+# Third-Party Libraries
+
+# Local Imports
+```
+
 # Tests
 TBD
 

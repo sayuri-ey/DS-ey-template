@@ -1,0 +1,487 @@
+Estado,Sigla,Ano,Modelo,Produtividade prevista,Produtividade obtida,cultura
+Acre,AC,2024,Modelo A,292,643,algodão
+Alagoas,AL,2024,Modelo A,703,768,algodão
+Amapá,AP,2024,Modelo A,128,912,algodão
+Amazonas,AM,2024,Modelo A,986,359,algodão
+Bahia,BA,2024,Modelo A,109,282,algodão
+Ceará,CE,2024,Modelo A,719,131,algodão
+Distrito Federal,DF,2024,Modelo A,774,483,algodão
+Espírito Santo,ES,2024,Modelo A,671,577,algodão
+Goiás,GO,2024,Modelo A,247,858,algodão
+Maranhão,MA,2024,Modelo A,690,113,algodão
+Mato Grosso,MT,2024,Modelo A,708,517,algodão
+Mato Grosso do Sul,MS,2024,Modelo A,893,410,algodão
+Minas Gerais,MG,2024,Modelo A,511,487,algodão
+Pará,PA,2024,Modelo A,830,455,algodão
+Paraíba,PB,2024,Modelo A,297,48,algodão
+Paraná,PR,2024,Modelo A,791,415,algodão
+Pernambuco,PE,2024,Modelo A,587,526,algodão
+Piauí,PI,2024,Modelo A,494,104,algodão
+Rio de Janeiro,RJ,2024,Modelo A,481,604,algodão
+Rio Grande do Norte,RN,2024,Modelo A,974,746,algodão
+Rio Grande do Sul,RS,2024,Modelo A,266,999,algodão
+Rondônia,RO,2024,Modelo A,745,323,algodão
+Roraima,RR,2024,Modelo A,614,361,algodão
+Santa Catarina,SC,2024,Modelo A,183,68,algodão
+São Paulo,SP,2024,Modelo A,987,388,algodão
+Sergipe,SE,2024,Modelo A,62,995,algodão
+Tocantins,TO,2024,Modelo A,81,877,algodão
+Acre,AC,2024,Modelo B,159,317,algodão
+Alagoas,AL,2024,Modelo B,182,230,algodão
+Amapá,AP,2024,Modelo B,701,323,algodão
+Amazonas,AM,2024,Modelo B,10,493,algodão
+Bahia,BA,2024,Modelo B,974,700,algodão
+Ceará,CE,2024,Modelo B,787,344,algodão
+Distrito Federal,DF,2024,Modelo B,945,673,algodão
+Espírito Santo,ES,2024,Modelo B,262,635,algodão
+Goiás,GO,2024,Modelo B,886,764,algodão
+Maranhão,MA,2024,Modelo B,298,535,algodão
+Mato Grosso,MT,2024,Modelo B,618,759,algodão
+Mato Grosso do Sul,MS,2024,Modelo B,353,399,algodão
+Minas Gerais,MG,2024,Modelo B,471,127,algodão
+Pará,PA,2024,Modelo B,0,324,algodão
+Paraíba,PB,2024,Modelo B,706,783,algodão
+Paraná,PR,2024,Modelo B,158,262,algodão
+Pernambuco,PE,2024,Modelo B,373,687,algodão
+Piauí,PI,2024,Modelo B,313,566,algodão
+Rio de Janeiro,RJ,2024,Modelo B,896,411,algodão
+Rio Grande do Norte,RN,2024,Modelo B,2,252,algodão
+Rio Grande do Sul,RS,2024,Modelo B,524,740,algodão
+Rondônia,RO,2024,Modelo B,730,826,algodão
+Roraima,RR,2024,Modelo B,166,661,algodão
+Santa Catarina,SC,2024,Modelo B,255,650,algodão
+São Paulo,SP,2024,Modelo B,94,462,algodão
+Sergipe,SE,2024,Modelo B,482,59,algodão
+Tocantins,TO,2024,Modelo B,307,874,algodão
+Acre,AC,2023,observada,,117,algodão
+Alagoas,AL,2023,observada,,627,algodão
+Amapá,AP,2023,observada,,420,algodão
+Amazonas,AM,2023,observada,,956,algodão
+Bahia,BA,2023,observada,,195,algodão
+Ceará,CE,2023,observada,,269,algodão
+Distrito Federal,DF,2023,observada,,984,algodão
+Espírito Santo,ES,2023,observada,,976,algodão
+Goiás,GO,2023,observada,,247,algodão
+Maranhão,MA,2023,observada,,241,algodão
+Mato Grosso,MT,2023,observada,,846,algodão
+Mato Grosso do Sul,MS,2023,observada,,33,algodão
+Minas Gerais,MG,2023,observada,,277,algodão
+Pará,PA,2023,observada,,266,algodão
+Paraíba,PB,2023,observada,,262,algodão
+Paraná,PR,2023,observada,,19,algodão
+Pernambuco,PE,2023,observada,,520,algodão
+Piauí,PI,2023,observada,,121,algodão
+Rio de Janeiro,RJ,2023,observada,,490,algodão
+Rio Grande do Norte,RN,2023,observada,,547,algodão
+Rio Grande do Sul,RS,2023,observada,,342,algodão
+Rondônia,RO,2023,observada,,70,algodão
+Roraima,RR,2023,observada,,545,algodão
+Santa Catarina,SC,2023,observada,,830,algodão
+São Paulo,SP,2023,observada,,781,algodão
+Sergipe,SE,2023,observada,,497,algodão
+Tocantins,TO,2023,observada,,361,algodão
+Acre,AC,2022,observada,,771,algodão
+Alagoas,AL,2022,observada,,9,algodão
+Amapá,AP,2022,observada,,993,algodão
+Amazonas,AM,2022,observada,,716,algodão
+Bahia,BA,2022,observada,,837,algodão
+Ceará,CE,2022,observada,,113,algodão
+Distrito Federal,DF,2022,observada,,812,algodão
+Espírito Santo,ES,2022,observada,,874,algodão
+Goiás,GO,2022,observada,,562,algodão
+Maranhão,MA,2022,observada,,828,algodão
+Mato Grosso,MT,2022,observada,,682,algodão
+Mato Grosso do Sul,MS,2022,observada,,93,algodão
+Minas Gerais,MG,2022,observada,,701,algodão
+Pará,PA,2022,observada,,308,algodão
+Paraíba,PB,2022,observada,,477,algodão
+Paraná,PR,2022,observada,,26,algodão
+Pernambuco,PE,2022,observada,,76,algodão
+Piauí,PI,2022,observada,,581,algodão
+Rio de Janeiro,RJ,2022,observada,,118,algodão
+Rio Grande do Norte,RN,2022,observada,,556,algodão
+Rio Grande do Sul,RS,2022,observada,,204,algodão
+Rondônia,RO,2022,observada,,44,algodão
+Roraima,RR,2022,observada,,399,algodão
+Santa Catarina,SC,2022,observada,,822,algodão
+São Paulo,SP,2022,observada,,585,algodão
+Sergipe,SE,2022,observada,,293,algodão
+Tocantins,TO,2022,observada,,126,algodão
+Acre,AC,2022,observada,,10,algodão
+Alagoas,AL,2022,observada,,404,algodão
+Amapá,AP,2022,observada,,564,algodão
+Amazonas,AM,2022,observada,,80,algodão
+Bahia,BA,2022,observada,,980,algodão
+Ceará,CE,2022,observada,,21,algodão
+Distrito Federal,DF,2022,observada,,322,algodão
+Espírito Santo,ES,2022,observada,,830,algodão
+Goiás,GO,2022,observada,,950,algodão
+Maranhão,MA,2022,observada,,279,algodão
+Mato Grosso,MT,2022,observada,,846,algodão
+Mato Grosso do Sul,MS,2022,observada,,348,algodão
+Minas Gerais,MG,2022,observada,,310,algodão
+Pará,PA,2022,observada,,105,algodão
+Paraíba,PB,2022,observada,,186,algodão
+Paraná,PR,2022,observada,,729,algodão
+Pernambuco,PE,2022,observada,,27,algodão
+Piauí,PI,2022,observada,,365,algodão
+Rio de Janeiro,RJ,2022,observada,,557,algodão
+Rio Grande do Norte,RN,2022,observada,,16,algodão
+Rio Grande do Sul,RS,2022,observada,,303,algodão
+Rondônia,RO,2022,observada,,167,algodão
+Roraima,RR,2022,observada,,17,algodão
+Santa Catarina,SC,2022,observada,,332,algodão
+São Paulo,SP,2022,observada,,872,algodão
+Sergipe,SE,2022,observada,,112,algodão
+Tocantins,TO,2022,observada,,301,algodão
+Acre,AC,2021,observada,,21,algodão
+Alagoas,AL,2021,observada,,779,algodão
+Amapá,AP,2021,observada,,43,algodão
+Amazonas,AM,2021,observada,,794,algodão
+Bahia,BA,2021,observada,,499,algodão
+Ceará,CE,2021,observada,,589,algodão
+Distrito Federal,DF,2021,observada,,959,algodão
+Espírito Santo,ES,2021,observada,,926,algodão
+Goiás,GO,2021,observada,,840,algodão
+Maranhão,MA,2021,observada,,673,algodão
+Mato Grosso,MT,2021,observada,,629,algodão
+Mato Grosso do Sul,MS,2021,observada,,734,algodão
+Minas Gerais,MG,2021,observada,,940,algodão
+Pará,PA,2021,observada,,674,algodão
+Paraíba,PB,2021,observada,,348,algodão
+Paraná,PR,2021,observada,,919,algodão
+Pernambuco,PE,2021,observada,,232,algodão
+Piauí,PI,2021,observada,,298,algodão
+Rio de Janeiro,RJ,2021,observada,,989,algodão
+Rio Grande do Norte,RN,2021,observada,,509,algodão
+Rio Grande do Sul,RS,2021,observada,,538,algodão
+Rondônia,RO,2021,observada,,264,algodão
+Roraima,RR,2021,observada,,192,algodão
+Santa Catarina,SC,2021,observada,,156,algodão
+São Paulo,SP,2021,observada,,626,algodão
+Sergipe,SE,2021,observada,,662,algodão
+Tocantins,TO,2021,observada,,103,algodão
+Acre,AC,2024,Modelo A,524,154,milho
+Alagoas,AL,2024,Modelo A,390,424,milho
+Amapá,AP,2024,Modelo A,286,968,milho
+Amazonas,AM,2024,Modelo A,170,507,milho
+Bahia,BA,2024,Modelo A,912,520,milho
+Ceará,CE,2024,Modelo A,696,674,milho
+Distrito Federal,DF,2024,Modelo A,498,659,milho
+Espírito Santo,ES,2024,Modelo A,450,642,milho
+Goiás,GO,2024,Modelo A,823,842,milho
+Maranhão,MA,2024,Modelo A,880,970,milho
+Mato Grosso,MT,2024,Modelo A,346,708,milho
+Mato Grosso do Sul,MS,2024,Modelo A,527,214,milho
+Minas Gerais,MG,2024,Modelo A,703,166,milho
+Pará,PA,2024,Modelo A,640,795,milho
+Paraíba,PB,2024,Modelo A,814,242,milho
+Paraná,PR,2024,Modelo A,136,354,milho
+Pernambuco,PE,2024,Modelo A,135,888,milho
+Piauí,PI,2024,Modelo A,158,140,milho
+Rio de Janeiro,RJ,2024,Modelo A,709,293,milho
+Rio Grande do Norte,RN,2024,Modelo A,449,347,milho
+Rio Grande do Sul,RS,2024,Modelo A,819,443,milho
+Rondônia,RO,2024,Modelo A,610,754,milho
+Roraima,RR,2024,Modelo A,478,889,milho
+Santa Catarina,SC,2024,Modelo A,19,964,milho
+São Paulo,SP,2024,Modelo A,43,662,milho
+Sergipe,SE,2024,Modelo A,400,876,milho
+Tocantins,TO,2024,Modelo A,819,678,milho
+Acre,AC,2024,Modelo B,662,152,milho
+Alagoas,AL,2024,Modelo B,261,753,milho
+Amapá,AP,2024,Modelo B,759,572,milho
+Amazonas,AM,2024,Modelo B,714,946,milho
+Bahia,BA,2024,Modelo B,684,654,milho
+Ceará,CE,2024,Modelo B,311,271,milho
+Distrito Federal,DF,2024,Modelo B,894,416,milho
+Espírito Santo,ES,2024,Modelo B,961,101,milho
+Goiás,GO,2024,Modelo B,37,813,milho
+Maranhão,MA,2024,Modelo B,31,855,milho
+Mato Grosso,MT,2024,Modelo B,851,320,milho
+Mato Grosso do Sul,MS,2024,Modelo B,322,695,milho
+Minas Gerais,MG,2024,Modelo B,977,533,milho
+Pará,PA,2024,Modelo B,240,183,milho
+Paraíba,PB,2024,Modelo B,599,769,milho
+Paraná,PR,2024,Modelo B,215,595,milho
+Pernambuco,PE,2024,Modelo B,774,797,milho
+Piauí,PI,2024,Modelo B,549,397,milho
+Rio de Janeiro,RJ,2024,Modelo B,618,603,milho
+Rio Grande do Norte,RN,2024,Modelo B,225,209,milho
+Rio Grande do Sul,RS,2024,Modelo B,864,676,milho
+Rondônia,RO,2024,Modelo B,64,163,milho
+Roraima,RR,2024,Modelo B,469,719,milho
+Santa Catarina,SC,2024,Modelo B,814,527,milho
+São Paulo,SP,2024,Modelo B,565,60,milho
+Sergipe,SE,2024,Modelo B,816,681,milho
+Tocantins,TO,2024,Modelo B,373,778,milho
+Acre,AC,2023,observada,,335,milho
+Alagoas,AL,2023,observada,,610,milho
+Amapá,AP,2023,observada,,188,milho
+Amazonas,AM,2023,observada,,75,milho
+Bahia,BA,2023,observada,,165,milho
+Ceará,CE,2023,observada,,597,milho
+Distrito Federal,DF,2023,observada,,942,milho
+Espírito Santo,ES,2023,observada,,207,milho
+Goiás,GO,2023,observada,,393,milho
+Maranhão,MA,2023,observada,,358,milho
+Mato Grosso,MT,2023,observada,,220,milho
+Mato Grosso do Sul,MS,2023,observada,,80,milho
+Minas Gerais,MG,2023,observada,,469,milho
+Pará,PA,2023,observada,,67,milho
+Paraíba,PB,2023,observada,,649,milho
+Paraná,PR,2023,observada,,106,milho
+Pernambuco,PE,2023,observada,,408,milho
+Piauí,PI,2023,observada,,406,milho
+Rio de Janeiro,RJ,2023,observada,,987,milho
+Rio Grande do Norte,RN,2023,observada,,135,milho
+Rio Grande do Sul,RS,2023,observada,,539,milho
+Rondônia,RO,2023,observada,,505,milho
+Roraima,RR,2023,observada,,621,milho
+Santa Catarina,SC,2023,observada,,776,milho
+São Paulo,SP,2023,observada,,976,milho
+Sergipe,SE,2023,observada,,205,milho
+Tocantins,TO,2023,observada,,165,milho
+Acre,AC,2022,observada,,304,milho
+Alagoas,AL,2022,observada,,470,milho
+Amapá,AP,2022,observada,,326,milho
+Amazonas,AM,2022,observada,,940,milho
+Bahia,BA,2022,observada,,270,milho
+Ceará,CE,2022,observada,,74,milho
+Distrito Federal,DF,2022,observada,,65,milho
+Espírito Santo,ES,2022,observada,,614,milho
+Goiás,GO,2022,observada,,231,milho
+Maranhão,MA,2022,observada,,531,milho
+Mato Grosso,MT,2022,observada,,145,milho
+Mato Grosso do Sul,MS,2022,observada,,967,milho
+Minas Gerais,MG,2022,observada,,816,milho
+Pará,PA,2022,observada,,423,milho
+Paraíba,PB,2022,observada,,568,milho
+Paraná,PR,2022,observada,,543,milho
+Pernambuco,PE,2022,observada,,434,milho
+Piauí,PI,2022,observada,,897,milho
+Rio de Janeiro,RJ,2022,observada,,118,milho
+Rio Grande do Norte,RN,2022,observada,,960,milho
+Rio Grande do Sul,RS,2022,observada,,516,milho
+Rondônia,RO,2022,observada,,202,milho
+Roraima,RR,2022,observada,,846,milho
+Santa Catarina,SC,2022,observada,,770,milho
+São Paulo,SP,2022,observada,,124,milho
+Sergipe,SE,2022,observada,,388,milho
+Tocantins,TO,2022,observada,,817,milho
+Acre,AC,2022,observada,,65,milho
+Alagoas,AL,2022,observada,,141,milho
+Amapá,AP,2022,observada,,235,milho
+Amazonas,AM,2022,observada,,358,milho
+Bahia,BA,2022,observada,,462,milho
+Ceará,CE,2022,observada,,993,milho
+Distrito Federal,DF,2022,observada,,918,milho
+Espírito Santo,ES,2022,observada,,867,milho
+Goiás,GO,2022,observada,,718,milho
+Maranhão,MA,2022,observada,,77,milho
+Mato Grosso,MT,2022,observada,,942,milho
+Mato Grosso do Sul,MS,2022,observada,,11,milho
+Minas Gerais,MG,2022,observada,,995,milho
+Pará,PA,2022,observada,,625,milho
+Paraíba,PB,2022,observada,,609,milho
+Paraná,PR,2022,observada,,828,milho
+Pernambuco,PE,2022,observada,,687,milho
+Piauí,PI,2022,observada,,702,milho
+Rio de Janeiro,RJ,2022,observada,,669,milho
+Rio Grande do Norte,RN,2022,observada,,742,milho
+Rio Grande do Sul,RS,2022,observada,,833,milho
+Rondônia,RO,2022,observada,,492,milho
+Roraima,RR,2022,observada,,788,milho
+Santa Catarina,SC,2022,observada,,77,milho
+São Paulo,SP,2022,observada,,326,milho
+Sergipe,SE,2022,observada,,766,milho
+Tocantins,TO,2022,observada,,215,milho
+Acre,AC,2021,observada,,935,milho
+Alagoas,AL,2021,observada,,579,milho
+Amapá,AP,2021,observada,,667,milho
+Amazonas,AM,2021,observada,,310,milho
+Bahia,BA,2021,observada,,659,milho
+Ceará,CE,2021,observada,,770,milho
+Distrito Federal,DF,2021,observada,,564,milho
+Espírito Santo,ES,2021,observada,,634,milho
+Goiás,GO,2021,observada,,272,milho
+Maranhão,MA,2021,observada,,578,milho
+Mato Grosso,MT,2021,observada,,715,milho
+Mato Grosso do Sul,MS,2021,observada,,928,milho
+Minas Gerais,MG,2021,observada,,357,milho
+Pará,PA,2021,observada,,102,milho
+Paraíba,PB,2021,observada,,956,milho
+Paraná,PR,2021,observada,,649,milho
+Pernambuco,PE,2021,observada,,899,milho
+Piauí,PI,2021,observada,,721,milho
+Rio de Janeiro,RJ,2021,observada,,415,milho
+Rio Grande do Norte,RN,2021,observada,,650,milho
+Rio Grande do Sul,RS,2021,observada,,468,milho
+Rondônia,RO,2021,observada,,778,milho
+Roraima,RR,2021,observada,,529,milho
+Santa Catarina,SC,2021,observada,,267,milho
+São Paulo,SP,2021,observada,,990,milho
+Sergipe,SE,2021,observada,,351,milho
+Tocantins,TO,2021,observada,,259,milho
+Acre,AC,2024,Modelo A,290,310,soja
+Alagoas,AL,2024,Modelo A,181,18,soja
+Amapá,AP,2024,Modelo A,620,794,soja
+Amazonas,AM,2024,Modelo A,847,468,soja
+Bahia,BA,2024,Modelo A,495,415,soja
+Ceará,CE,2024,Modelo A,849,113,soja
+Distrito Federal,DF,2024,Modelo A,235,411,soja
+Espírito Santo,ES,2024,Modelo A,821,882,soja
+Goiás,GO,2024,Modelo A,669,796,soja
+Maranhão,MA,2024,Modelo A,980,414,soja
+Mato Grosso,MT,2024,Modelo A,832,411,soja
+Mato Grosso do Sul,MS,2024,Modelo A,473,907,soja
+Minas Gerais,MG,2024,Modelo A,678,683,soja
+Pará,PA,2024,Modelo A,511,976,soja
+Paraíba,PB,2024,Modelo A,214,227,soja
+Paraná,PR,2024,Modelo A,222,861,soja
+Pernambuco,PE,2024,Modelo A,78,640,soja
+Piauí,PI,2024,Modelo A,488,758,soja
+Rio de Janeiro,RJ,2024,Modelo A,787,412,soja
+Rio Grande do Norte,RN,2024,Modelo A,924,847,soja
+Rio Grande do Sul,RS,2024,Modelo A,540,510,soja
+Rondônia,RO,2024,Modelo A,659,433,soja
+Roraima,RR,2024,Modelo A,943,568,soja
+Santa Catarina,SC,2024,Modelo A,359,569,soja
+São Paulo,SP,2024,Modelo A,759,948,soja
+Sergipe,SE,2024,Modelo A,911,324,soja
+Tocantins,TO,2024,Modelo A,392,191,soja
+Acre,AC,2024,Modelo B,510,916,soja
+Alagoas,AL,2024,Modelo B,336,394,soja
+Amapá,AP,2024,Modelo B,318,865,soja
+Amazonas,AM,2024,Modelo B,13,892,soja
+Bahia,BA,2024,Modelo B,953,980,soja
+Ceará,CE,2024,Modelo B,47,842,soja
+Distrito Federal,DF,2024,Modelo B,555,929,soja
+Espírito Santo,ES,2024,Modelo B,914,180,soja
+Goiás,GO,2024,Modelo B,955,528,soja
+Maranhão,MA,2024,Modelo B,537,952,soja
+Mato Grosso,MT,2024,Modelo B,173,286,soja
+Mato Grosso do Sul,MS,2024,Modelo B,759,898,soja
+Minas Gerais,MG,2024,Modelo B,481,631,soja
+Pará,PA,2024,Modelo B,788,911,soja
+Paraíba,PB,2024,Modelo B,28,185,soja
+Paraná,PR,2024,Modelo B,901,394,soja
+Pernambuco,PE,2024,Modelo B,393,249,soja
+Piauí,PI,2024,Modelo B,610,918,soja
+Rio de Janeiro,RJ,2024,Modelo B,720,809,soja
+Rio Grande do Norte,RN,2024,Modelo B,449,809,soja
+Rio Grande do Sul,RS,2024,Modelo B,561,153,soja
+Rondônia,RO,2024,Modelo B,11,343,soja
+Roraima,RR,2024,Modelo B,489,884,soja
+Santa Catarina,SC,2024,Modelo B,263,94,soja
+São Paulo,SP,2024,Modelo B,490,409,soja
+Sergipe,SE,2024,Modelo B,545,410,soja
+Tocantins,TO,2024,Modelo B,424,306,soja
+Acre,AC,2023,observada,,1,soja
+Alagoas,AL,2023,observada,,48,soja
+Amapá,AP,2023,observada,,719,soja
+Amazonas,AM,2023,observada,,975,soja
+Bahia,BA,2023,observada,,865,soja
+Ceará,CE,2023,observada,,270,soja
+Distrito Federal,DF,2023,observada,,48,soja
+Espírito Santo,ES,2023,observada,,407,soja
+Goiás,GO,2023,observada,,892,soja
+Maranhão,MA,2023,observada,,633,soja
+Mato Grosso,MT,2023,observada,,661,soja
+Mato Grosso do Sul,MS,2023,observada,,909,soja
+Minas Gerais,MG,2023,observada,,599,soja
+Pará,PA,2023,observada,,302,soja
+Paraíba,PB,2023,observada,,754,soja
+Paraná,PR,2023,observada,,176,soja
+Pernambuco,PE,2023,observada,,222,soja
+Piauí,PI,2023,observada,,334,soja
+Rio de Janeiro,RJ,2023,observada,,806,soja
+Rio Grande do Norte,RN,2023,observada,,311,soja
+Rio Grande do Sul,RS,2023,observada,,180,soja
+Rondônia,RO,2023,observada,,355,soja
+Roraima,RR,2023,observada,,311,soja
+Santa Catarina,SC,2023,observada,,88,soja
+São Paulo,SP,2023,observada,,143,soja
+Sergipe,SE,2023,observada,,768,soja
+Tocantins,TO,2023,observada,,791,soja
+Acre,AC,2022,observada,,231,soja
+Alagoas,AL,2022,observada,,872,soja
+Amapá,AP,2022,observada,,795,soja
+Amazonas,AM,2022,observada,,31,soja
+Bahia,BA,2022,observada,,175,soja
+Ceará,CE,2022,observada,,723,soja
+Distrito Federal,DF,2022,observada,,246,soja
+Espírito Santo,ES,2022,observada,,233,soja
+Goiás,GO,2022,observada,,455,soja
+Maranhão,MA,2022,observada,,681,soja
+Mato Grosso,MT,2022,observada,,887,soja
+Mato Grosso do Sul,MS,2022,observada,,90,soja
+Minas Gerais,MG,2022,observada,,444,soja
+Pará,PA,2022,observada,,801,soja
+Paraíba,PB,2022,observada,,681,soja
+Paraná,PR,2022,observada,,891,soja
+Pernambuco,PE,2022,observada,,620,soja
+Piauí,PI,2022,observada,,227,soja
+Rio de Janeiro,RJ,2022,observada,,995,soja
+Rio Grande do Norte,RN,2022,observada,,376,soja
+Rio Grande do Sul,RS,2022,observada,,934,soja
+Rondônia,RO,2022,observada,,306,soja
+Roraima,RR,2022,observada,,26,soja
+Santa Catarina,SC,2022,observada,,466,soja
+São Paulo,SP,2022,observada,,123,soja
+Sergipe,SE,2022,observada,,870,soja
+Tocantins,TO,2022,observada,,383,soja
+Acre,AC,2022,observada,,934,soja
+Alagoas,AL,2022,observada,,31,soja
+Amapá,AP,2022,observada,,460,soja
+Amazonas,AM,2022,observada,,702,soja
+Bahia,BA,2022,observada,,773,soja
+Ceará,CE,2022,observada,,55,soja
+Distrito Federal,DF,2022,observada,,131,soja
+Espírito Santo,ES,2022,observada,,677,soja
+Goiás,GO,2022,observada,,329,soja
+Maranhão,MA,2022,observada,,897,soja
+Mato Grosso,MT,2022,observada,,476,soja
+Mato Grosso do Sul,MS,2022,observada,,665,soja
+Minas Gerais,MG,2022,observada,,196,soja
+Pará,PA,2022,observada,,650,soja
+Paraíba,PB,2022,observada,,669,soja
+Paraná,PR,2022,observada,,282,soja
+Pernambuco,PE,2022,observada,,528,soja
+Piauí,PI,2022,observada,,123,soja
+Rio de Janeiro,RJ,2022,observada,,691,soja
+Rio Grande do Norte,RN,2022,observada,,68,soja
+Rio Grande do Sul,RS,2022,observada,,690,soja
+Rondônia,RO,2022,observada,,991,soja
+Roraima,RR,2022,observada,,329,soja
+Santa Catarina,SC,2022,observada,,318,soja
+São Paulo,SP,2022,observada,,101,soja
+Sergipe,SE,2022,observada,,992,soja
+Tocantins,TO,2022,observada,,230,soja
+Acre,AC,2021,observada,,667,soja
+Alagoas,AL,2021,observada,,722,soja
+Amapá,AP,2021,observada,,966,soja
+Amazonas,AM,2021,observada,,40,soja
+Bahia,BA,2021,observada,,858,soja
+Ceará,CE,2021,observada,,862,soja
+Distrito Federal,DF,2021,observada,,922,soja
+Espírito Santo,ES,2021,observada,,640,soja
+Goiás,GO,2021,observada,,404,soja
+Maranhão,MA,2021,observada,,928,soja
+Mato Grosso,MT,2021,observada,,693,soja
+Mato Grosso do Sul,MS,2021,observada,,581,soja
+Minas Gerais,MG,2021,observada,,530,soja
+Pará,PA,2021,observada,,250,soja
+Paraíba,PB,2021,observada,,5,soja
+Paraná,PR,2021,observada,,97,soja
+Pernambuco,PE,2021,observada,,858,soja
+Piauí,PI,2021,observada,,375,soja
+Rio de Janeiro,RJ,2021,observada,,925,soja
+Rio Grande do Norte,RN,2021,observada,,471,soja
+Rio Grande do Sul,RS,2021,observada,,790,soja
+Rondônia,RO,2021,observada,,51,soja
+Roraima,RR,2021,observada,,718,soja
+Santa Catarina,SC,2021,observada,,122,soja
+São Paulo,SP,2021,observada,,462,soja
+Sergipe,SE,2021,observada,,695,soja
+Tocantins,TO,2021,observada,,161,soja
